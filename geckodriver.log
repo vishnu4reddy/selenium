@@ -1,0 +1,120 @@
+1670217067836	geckodriver	INFO	Listening on 127.0.0.1:61539
+1670217070913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61540" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofileIfpm1w"
+1670217071752	Marionette	INFO	Marionette enabled
+1670217071758	Marionette	INFO	Listening on port 61553
+Read port: 61553
+WebDriver BiDi listening on ws://127.0.0.1:61540
+1670217071959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofileIfpm1w\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61540/devtools/browser/f3192db9-013b-4783-8188-1a8f5e40f8da
+JavaScript warning: moz-extension://d126c3ac-e046-46a2-b576-3de734ef39bc/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+1670217078571	Marionette	INFO	Stopped listening on port 61553
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\vreddy\AppData\Local\Temp\3\rust_mozprofileIfpm1w\sessionCheckpoints.json.tmp) to destination(C:\Users\vreddy\AppData\Local\Temp\3\rust_mozprofileIfpm1w\sessionCheckpoints.json)
+1670231886523	geckodriver	INFO	Listening on 127.0.0.1:54163
+1670231889588	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54164" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofilejAsFVo"
+1670231889949	Marionette	INFO	Marionette enabled
+1670231889954	Marionette	INFO	Listening on port 54175
+WebDriver BiDi listening on ws://127.0.0.1:54164
+Read port: 54175
+1670231890143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofilejAsFVo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54164/devtools/browser/f1a31bc9-d9b4-4af1-b7ac-d7cbab75192e
+JavaScript warning: moz-extension://01644c30-59e4-45f2-817b-5044ed76d987/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+1670231892894	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.48, line 2: TypeError: loginData is undefined
+1670231908570	Marionette	INFO	Stopped listening on port 54175
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670231917828	geckodriver	INFO	Listening on 127.0.0.1:54255
+1670231920882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54256" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofilex8rHWM"
+1670231921204	Marionette	INFO	Marionette enabled
+1670231921209	Marionette	INFO	Listening on port 54267
+Read port: 54267
+WebDriver BiDi listening on ws://127.0.0.1:54256
+1670231921335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofilex8rHWM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54256/devtools/browser/12ea93e6-a5ce-46e1-8e6c-557d32e73afe
+JavaScript warning: moz-extension://ff9dbbab-8316-49c4-9d25-3a7c32644927/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+1670231924690	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.48, line 2: TypeError: loginData is undefined
+1670231940973	Marionette	INFO	Stopped listening on port 54267
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670232146403	geckodriver	INFO	Listening on 127.0.0.1:54454
+1670232149479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54455" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofileCXk70a"
+1670232149780	Marionette	INFO	Marionette enabled
+1670232149785	Marionette	INFO	Listening on port 54466
+Read port: 54466
+WebDriver BiDi listening on ws://127.0.0.1:54455
+1670232149897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofileCXk70a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54455/devtools/browser/2fa07429-1032-4d53-a595-108b4e211d57
+JavaScript warning: moz-extension://f9c29ff1-3b15-4808-b533-34c3da23fe91/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+1670232152386	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.48, line 2: TypeError: loginData is undefined
+1670232154792	Marionette	INFO	Stopped listening on port 54466
+1670232216904	geckodriver	INFO	Listening on 127.0.0.1:54550
+1670232219963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54551" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofileBvKNV3"
+1670232220259	Marionette	INFO	Marionette enabled
+1670232220263	Marionette	INFO	Listening on port 54563
+Read port: 54563
+WebDriver BiDi listening on ws://127.0.0.1:54551
+1670232220373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofileBvKNV3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54551/devtools/browser/890ff783-d6cd-418d-843d-b20c1d99a0be
+JavaScript warning: moz-extension://437c4b8b-ff1e-483f-a0eb-21a9c6244ab8/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+1670232222940	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.48, line 2: TypeError: loginData is undefined
+1670232226925	Marionette	INFO	Stopped listening on port 54563
+1670232248032	geckodriver	INFO	Listening on 127.0.0.1:54641
+1670232251095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54642" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofileAlGxI4"
+1670232251382	Marionette	INFO	Marionette enabled
+1670232251387	Marionette	INFO	Listening on port 54654
+Read port: 54654
+WebDriver BiDi listening on ws://127.0.0.1:54642
+1670232251500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofileAlGxI4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54642/devtools/browser/4885458c-82b5-4531-b619-2a85e0ad89cc
+JavaScript warning: moz-extension://3d808dfa-e54d-45e8-9b12-5bc961e511d7/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+1670232254042	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.48, line 2: TypeError: loginData is undefined
+1670232256685	Marionette	INFO	Stopped listening on port 54654
+1670232358073	geckodriver	INFO	Listening on 127.0.0.1:54783
+1670232361129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54784" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofilePG762y"
+1670232361421	Marionette	INFO	Marionette enabled
+1670232361425	Marionette	INFO	Listening on port 54795
+Read port: 54795
+WebDriver BiDi listening on ws://127.0.0.1:54784
+1670232361536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofilePG762y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54784/devtools/browser/d6a797ac-51e7-496d-a239-c78e6d69cf57
+JavaScript warning: moz-extension://50f3bca3-026d-4fc5-8af3-37632404fc17/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+1670232364169	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.48, line 2: TypeError: loginData is undefined
+1670232376903	Marionette	INFO	Stopped listening on port 54795
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670232711034	geckodriver	INFO	Listening on 127.0.0.1:55061
+1670232714091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55062" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofileLpGo9o"
+1670232714391	Marionette	INFO	Marionette enabled
+1670232714397	Marionette	INFO	Listening on port 55073
+Read port: 55073
+WebDriver BiDi listening on ws://127.0.0.1:55062
+1670232714520	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofileLpGo9o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55062/devtools/browser/8c7701a1-d0f8-403f-8c1d-aa1fec3129bd
+JavaScript warning: moz-extension://f5932a5e-84cb-4316-be29-cab017f25e02/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+1670232717178	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.48, line 2: TypeError: loginData is undefined
+1670232736151	Marionette	INFO	Stopped listening on port 55073
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670232759594	geckodriver	INFO	Listening on 127.0.0.1:55167
+1670232762661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55168" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofileHMsVzh"
+1670232762957	Marionette	INFO	Marionette enabled
+1670232762962	Marionette	INFO	Listening on port 55179
+Read port: 55179
+WebDriver BiDi listening on ws://127.0.0.1:55168
+1670232763076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofileHMsVzh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55168/devtools/browser/5daa7d8b-0ebe-44b6-98ad-cc8478a767b1
+JavaScript warning: moz-extension://a88829ed-efff-461f-91c2-2d38d2299415/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+1670232778499	Marionette	INFO	Stopped listening on port 55179
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
