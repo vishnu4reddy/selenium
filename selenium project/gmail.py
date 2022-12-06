@@ -3,31 +3,31 @@ import time
 from selenium.webdriver.common.by import By 
 from selenium.webdriver.common.keys import Keys
 print("Starting on the earth")  
-user_name = "vishnureddy12.in@gmail.com"
+user_name = "vreddy@msystechnologies.com"
 password = "vishnu16REDDY@"
 to = "vishnureddy12.in@gmail.com"
 subject = "enjoy"
 text = "complete the given work"
 driver = webdriver.Chrome()  
 driver.maximize_window()  
-driver.get("https://www.google.com/")  
+driver.get("https://www.google.com/?hl=en-GB")  
 time.sleep(1)
-driver.find_element(By.NAME,"q").send_keys("gmail") 
+driver.find_element(By.NAME,"q").send_keys("gmail.com") 
 time.sleep(1) 
 driver.find_element(By.NAME,"btnK").send_keys(Keys.ENTER)
-time.sleep(1) 
-driver.find_element(By.XPATH,"//h3[normalize-space()='Google Accounts: Sign in']").click()
-time.sleep(1) 
-driver.find_element(By.XPATH,"//a[@class='gb_7 gb_8 gb_de gb_dd']").click() 
+# time.sleep(1) 
+driver.find_element(By.XPATH,"//h3[normalize-space()='Google - Gmail']").click()
+# time.sleep(1) 
+driver.find_element(By.XPATH,"//a[@id='gmail-sign-in']").click() 
 time.sleep(1) 
 driver.find_element(By.XPATH,"//input[@id='identifierId']").send_keys(user_name)  
 time.sleep(1)
 print(driver.current_url) 
 driver.find_element(By.XPATH,"//span[normalize-space()='Next']").click()
-time.sleep(6)
+time.sleep(1)
 # print(driver.current_url)
 driver.find_element(By.NAME,"password").send_keys(password)  
-time.sleep(6)
+time.sleep(1)
 # print(driver.current_url)
 driver.find_element(By.XPATH,"//button[@class='VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-k8QpJ VfPpkd-LgbsSe-OWXEXe-dgl2Hf nCP5yc AjY5Oe DuMIQc LQeN7 qIypjc TrZEUc lw1w4b VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe']//div[@class='VfPpkd-RLmnJb']").click()
 time.sleep(3)
