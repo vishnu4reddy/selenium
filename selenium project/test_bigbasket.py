@@ -26,6 +26,6 @@ def test_bigbasket():
     driver.find_element(By.XPATH,"//a[@class='btn hvr-fade']//span[@class='new-caret']").click()
     time.sleep(1)
     driver.find_element(By.XPATH,"//a[@ng-click='vm.logout()']").click()
-    time.sleep(1)
+    time.sleep(2)
     driver.close()  
     print("landed on the moon ")
