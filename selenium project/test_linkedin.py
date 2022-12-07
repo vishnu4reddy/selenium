@@ -41,7 +41,7 @@ def test_linkedin():
     # time.sleep(2)
     # driver.find_element(By.XPATH,"//span[normalize-space()='Next']").click()
     # time.sleep(3)
-    # driver.save_screenshot('screenshots.png')
+    driver.save_screenshot('screenshots.png')
     # print(driver.save_screenshot('screenshots.png'))
     driver.close()  
     print("landed on the moon ")  
