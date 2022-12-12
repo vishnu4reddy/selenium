@@ -4,7 +4,6 @@ import time
 from selenium.webdriver.common.by import By 
 from selenium.webdriver.common.keys import Keys
 print("Starting on the earth")
-class Test  
 user_name = "vishnureddy12.in@gmail.com"
 password = "vishnu16REDDY@"
 def sample():

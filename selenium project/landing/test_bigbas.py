@@ -5,7 +5,6 @@ from selenium.webdriver.common.keys import Keys
 number = "9490058514"
 print("Starting on the earth")
 def test_bigbasket():
-    pass
     driver = webdriver.Chrome()  
     driver.maximize_window()
     driver.get("https://www.google.com/")  
@@ -15,7 +14,9 @@ def test_bigbasket():
     driver.find_element(By.XPATH,"//a[@ng-show='vm.newLoginFlow']").click()
     driver.find_element(By.XPATH,"//input[@id='otpEmail']").send_keys(number)
     driver.find_element(By.XPATH,"//button[@type='submit'][normalize-space()='Continue']").click()
+    time.sleep(3)
     driver.find_element(By.XPATH,"//button[normalize-space()='Verify & Continue']").click()
+    time.sleep(15)
     driver.find_element(By.XPATH,"//a[@class='btn hvr-fade']//span[@class='new-caret']").click()
     driver.find_element(By.XPATH,"//a[@ng-click='vm.logout()']").click()
     driver.close()  
