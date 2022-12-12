@@ -160,3 +160,77 @@ JavaScript warning: moz-extension://c9b74d19-bcaa-40dd-a5c2-4ba94611bfab/mcafee_
 JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.49, line 2: TypeError: loginData is undefined
 1670480651944	Marionette	INFO	Stopped listening on port 53577
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670829301896	geckodriver	INFO	Listening on 127.0.0.1:61137
+1670829304944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61138" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofileZ9iBDm"
+1670829306549	Marionette	INFO	Marionette enabled
+1670829306555	Marionette	INFO	Listening on port 61150
+Read port: 61150
+WebDriver BiDi listening on ws://127.0.0.1:61138
+1670829306725	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofileZ9iBDm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61138/devtools/browser/717fe6b3-92f1-4f59-b586-bf380cc9f1d5
+JavaScript warning: moz-extension://b514d76e-3795-400c-b6a1-221a68712277/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+1670829331643	Marionette	INFO	Stopped listening on port 61150
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670839675630	geckodriver	INFO	Listening on 127.0.0.1:51458
+1670839678790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51459" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofilevEqP29"
+1670839857747	geckodriver	INFO	Listening on 127.0.0.1:51571
+1670839860749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51572" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofilenQgKd2"
+1670839861778	Marionette	INFO	Marionette enabled
+1670839861785	Marionette	INFO	Listening on port 51583
+Read port: 51583
+WebDriver BiDi listening on ws://127.0.0.1:51572
+1670839862028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofilenQgKd2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51572/devtools/browser/c54ebd8c-28df-4483-b612-a86cbb3b6759
+JavaScript warning: moz-extension://70ef57de-4ab4-498b-89b5-3d916250b972/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+1670839868453	Marionette	INFO	Stopped listening on port 51583
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670839953962	geckodriver	INFO	Listening on 127.0.0.1:51651
+1670839957082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51652" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofileUt7FT9"
+1670839957565	Marionette	INFO	Marionette enabled
+1670839957569	Marionette	INFO	Listening on port 51664
+Read port: 51664
+WebDriver BiDi listening on ws://127.0.0.1:51652
+1670839957715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofileUt7FT9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51652/devtools/browser/a21f175a-a547-4398-a423-99e1f14f0453
+JavaScript warning: moz-extension://c38c8a30-d351-48f7-a15d-7e1242202031/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+1670839971365	Marionette	INFO	Stopped listening on port 51664
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670843047704	geckodriver	INFO	Listening on 127.0.0.1:53383
+1670843050757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53384" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofiledS6tge"
+1670843051086	Marionette	INFO	Marionette enabled
+1670843051091	Marionette	INFO	Listening on port 53395
+WebDriver BiDi listening on ws://127.0.0.1:53384
+Read port: 53395
+1670843051316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofiledS6tge\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53384/devtools/browser/43947a28-05c8-4c7e-8f19-4e89638efb57
+JavaScript warning: moz-extension://81bb1461-d361-44aa-9877-641b7e2c96e9/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+1670843056320	Marionette	INFO	Stopped listening on port 53395
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670843144075	geckodriver	INFO	Listening on 127.0.0.1:53466
+1670843147135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53467" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofilentXSot"
+1670843147501	Marionette	INFO	Marionette enabled
+1670843147506	Marionette	INFO	Listening on port 53479
+Read port: 53479
+WebDriver BiDi listening on ws://127.0.0.1:53467
+1670843147622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofilentXSot\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53467/devtools/browser/24b098f8-f2da-4b1c-a786-a478cb4fd9ee
+JavaScript warning: moz-extension://c67db6c4-c1db-452e-a17c-f2979fb89b82/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+1670843171116	Marionette	INFO	Stopped listening on port 53479
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670848238183	geckodriver	INFO	Listening on 127.0.0.1:56328
+1670848241293	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56329" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofileZGVrg0"
+1670848241864	Marionette	INFO	Marionette enabled
+1670848241869	Marionette	INFO	Listening on port 56339
+Read port: 56339
+WebDriver BiDi listening on ws://127.0.0.1:56329
+1670848242067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vreddy\\AppData\\Local\\Temp\\3\\rust_mozprofileZGVrg0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56329/devtools/browser/4cb4f4ac-851d-4838-ab55-89c1e345bea6
+JavaScript warning: moz-extension://a2b9ae04-7ba5-4c2e-818a-2372a5386848/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+1670848270900	Marionette	INFO	Stopped listening on port 56339
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

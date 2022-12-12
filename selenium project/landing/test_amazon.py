@@ -6,7 +6,7 @@ print("Starting on the earth")
 number = "9490058514"
 password = "9490058514"
 # def test_amazon():
-pass
+# pass
 driver = webdriver.Chrome()  
 driver.maximize_window()  
 driver.get("https://www.google.com/")  
